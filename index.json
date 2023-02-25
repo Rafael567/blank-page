@@ -1,10 +1,10 @@
 {
   "firmware": {
-    "ver": "15.0.1",
-    "url": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2015.0.1%20%28Rebootless%20Update%29.zip",
-    "size": "322200000"
+    "ver": "16.0.0",
+    "url": "https://cdn-153.anonfiles.com/G3B3q0a6z3/7db77554-1677338362/Firmware+16.0.0.zip",
+    "size": "332822000"
   },
   "keys": {
-    "url": "https://raw.githubusercontent.com/HiDe-Techno-Tips/Nintendo-Switch-Files/master/prod.keys"
+    "url": "https://cdn-145.anonfiles.com/m185qca4z6/6025462c-1677338021/prod.keys"
   }
 }
