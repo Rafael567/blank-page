@@ -1,10 +1,10 @@
 {
   "firmware": {
     "ver": "16.0.0",
-    "url": "https://cdn-153.anonfiles.com/G3B3q0a6z3/7db77554-1677338362/Firmware+16.0.0.zip",
+    "url": "https://archive.org/download/prod_20230225/Firmware%2016.0.0.zip",
     "size": "332822000"
   },
   "keys": {
-    "url": "https://cdn-145.anonfiles.com/m185qca4z6/6025462c-1677338021/prod.keys"
+    "url": "https://archive.org/download/prod_20230225/prod.keys"
   }
 }
